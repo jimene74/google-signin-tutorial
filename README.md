@@ -27,13 +27,13 @@ get uri for web client:
 save client id.
 create oauth client id.
 select ios.
-get bundle identifier.
+get bundle identifier:
 ```npx expo prebuild```
 save client id.
 create oauth client id.
 select android.
 bundle should be same (check app.json).
-get fingerprint.
+get fingerprint:
 ```expo credentials:manager```
 update generate new keystore.
 
